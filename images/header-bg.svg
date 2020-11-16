@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="985px" height="793px" viewBox="0 0 985 793" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>header-bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="942" height="856"></rect>
+        <linearGradient x1="29.8059484%" y1="92.3554054%" x2="65.726518%" y2="9.87976068%" id="linearGradient-3">
+            <stop stop-color="#EBF4F3" offset="0%"></stop>
+            <stop stop-color="#A7D4CF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M663.999541,557.417044 C894.959443,542.645737 846.460199,701.216786 941.963205,663.052841 C1000.02662,639.850127 981.138545,604.565533 985.000213,557.417044 C991.749733,475.009743 985.000213,360.856019 985.000213,246.809621 C985.000213,-15.7508559 936.777656,-146.384401 663.999541,-146.384401 C535.551013,-146.384401 205.407187,-167.438467 117.559512,-90.0794804 C18.8505688,-3.15601991 118.572271,68.546608 222.096612,173.776679 C307.291948,260.375745 412.078582,287.325789 473.415216,335.921263 C531.643911,382.054396 550.732865,564.661145 663.999541,557.417044 Z" id="path-4"></path>
+        <filter x="-86.7%" y="-89.9%" width="267.9%" height="287.0%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="-25" dy="30" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="250" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.68627451   0 0 0 0 0.745098039   0 0 0 0 0.850980392  0 0 0 0.401381341 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-455.000000, 0.000000)">
+            <g id="Rectangle" transform="translate(498.000000, 0.000000)">
+                <g id="header-bg">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask"></g>
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <g id="Mask">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-4"></use>
+                        <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

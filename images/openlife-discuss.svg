@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="147px" height="159px" viewBox="0 0 147 159" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>discussion</title>
+    <desc>Created with Sketch.</desc>
+    <g id="首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-1067.000000, -1325.000000)">
+            <g id="discussion" transform="translate(1067.000000, 1325.000000)">
+                <path d="M73.5,0 C32.9036269,0 0,32.9913545 0,73.6959654 C0,95.6902017 9.59689119,115.469741 24.8300518,128.987032 L9.52072539,159 L40.5963731,139.678674 C50.4979275,144.642651 61.6943005,147.4683 73.5,147.4683 C114.096373,147.4683 147,114.476945 147,73.7723343 C147,33.0677233 114.096373,0 73.5,0 Z" id="Path" fill="#FFB883"></path>
+                <g id="Group" transform="translate(20.000000, 58.000000)">
+                    <circle id="Oval" fill="#FAFAFA" cx="28.577027" cy="28.5" r="28.1148649"></circle>
+                    <g transform="translate(19.256757, 11.554054)" fill="#607BAC">
+                        <polygon id="Path" points="11.477027 27.1905405 7.08648649 27.1905405 7.08648649 19.1027027 14.0189189 13.0945946 14.0189189 6.70135135 12.0932432 4.77567568 6.47027027 4.77567568 4.54459459 6.70135135 4.54459459 11.9391892 0.154054054 11.9391892 0.154054054 4.92972973 4.69864865 0.385135135 13.9418919 0.385135135 18.4864865 4.92972973 18.4864865 15.0972973 11.477027 21.1054054"></polygon>
+                        <rect id="Rectangle" x="7.08648649" y="29.0391892" width="4.39054054" height="4.46756757"></rect>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(79.000000, 92.000000)">
+                    <ellipse id="Oval" fill="#FAFAFA" cx="13.8444444" cy="13.57" rx="13.4555556" ry="13.2633333"></ellipse>
+                    <g transform="translate(11.666667, 5.366667)" fill="#607BAC">
+                        <polygon id="Path" points="0 0.383333333 1.08888889 13.11 3.18888889 13.11 4.35555556 0.383333333"></polygon>
+                        <rect id="Rectangle" x="1.08888889" y="13.9533333" width="2.1" height="2.14666667"></rect>
+                    </g>
+                </g>
+                <g id="Group" transform="translate(74.000000, 35.000000)">
+                    <circle id="Oval" fill="#FAFAFA" cx="26.6514286" cy="26.3485714" r="25.97"></circle>
+                    <polygon id="Path" fill="#607BAC" points="21.5785714 31.1185714 14.2342857 25.2128571 10.7514286 29.6042857 21.9571429 38.6142857 42.6271429 18.1714286 38.6142857 14.1585714"></polygon>
+                </g>
+                <g id="Group" transform="translate(43.000000, 21.000000)">
+                    <ellipse id="Oval" fill="#FAFAFA" cx="15.5" cy="16.0761905" rx="15.4243902" ry="15.5428571"></ellipse>
+                    <polygon id="Path" fill="#607BAC" points="19.8853659 9.2952381 15.5 13.7142857 11.1146341 9.2952381 8.77073171 11.6571429 13.1560976 16.0761905 8.77073171 20.4952381 11.1146341 22.8571429 15.5 18.4380952 19.8853659 22.8571429 22.2292683 20.4952381 17.8439024 16.0761905 22.2292683 11.6571429"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
